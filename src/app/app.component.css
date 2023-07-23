@@ -1,0 +1,7 @@
+.spacer {
+    flex-basis: 70%;
+}
+.flex {
+    width: 300px;
+    justify-content: space-between;
+}
